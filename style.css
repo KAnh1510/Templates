@@ -1,0 +1,14 @@
+/* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+/* Default */
+
+.mee {
+  
+  height: 200px;
+  width: 150px;
+  text-align: 300px;
+  border-radius: 45%;
+  vertical-align: middle;
+}
+
